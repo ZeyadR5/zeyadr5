@@ -1,73 +1,98 @@
-# Hi there, I'm Zeyad Yasser 👋
+<div align="center">
 
-<p align="left">
-  <strong>IT Operations & System Administrator | Software Developer | Automation Enthusiast</strong><br>
-  Based in Beni Suef, Egypt 📍
-</p>
+  <!-- Responsive Light/Dark Banner from mikewall.dev -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+    <img alt="Zeyad Yasser Banner" src="art/header-light.png" width="100%">
+  </picture>
 
-<p align="left">
-  <a href="https://linkedin.com/in/zeyad-yasser-213312297" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <br><br>
+
+  <!-- Large Centered Title -->
+  <h1>Hey there, I'm Zeyad Yasser 👋</h1>
+
+  <!-- Animated Typing Text -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=620&lines=IT+Operations+%26+System+Administrator;Software+Developer+%26+Problem+Solver;Workflow+Automation+Enthusiast+(n8n+%2B+Supabase);Beni+Suef+Technological+University+%7C+DEPI" alt="Typing SVG" />
   </a>
-  <a href="mailto:zeyady2233@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+
+  <br><br>
+
+  <!-- Badges: Views & Location -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=zeyadr5&label=Profile%20Views&color=00d2ff&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/zeyadr5?label=Followers&style=flat-square&color=6c5ce7" alt="Followers" />
+    <img src="https://img.shields.io/badge/Location-Beni%20Suef%2C%20Egypt-blue?style=flat-square" alt="Location" />
+  </p>
+
+</div>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 💼 **IT Technical Support Team Leader & System Administrator** with hands-on experience managing multi-branch infrastructure, network stabilization, and core servers.
-- 🎓 Graduate in **Information Technology (Software Specialization)** from Beni Suef Technological University.
-- ⚙️ Passionate about **Workflow Automation & AI integrations** (n8n, Supabase, APIs) to streamline operations.
-- 🏆 Active participant in tech initiatives and hackathons, including **DEPI** and **NASA Space Apps**.
-- 🎯 Focused on bridging the gap between stable IT infrastructure and efficient software solutions.
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <ul>
+        <li>💼 <b>IT Operations & Systems:</b> Technical Support Team Leader with experience managing multi-branch infrastructure, network stabilization, and administration of core servers (Print, Millensys, Veeam, Databases).</li>
+        <li>🏥 <b>Medical IT:</b> Specialized in supporting healthcare and radiology environments (MRI, CT, X-Ray) and wireless point-to-point branch links.</li>
+        <li>⚙️ <b>Automation & AI:</b> Building smart integrations and workflow automations using <b>n8n</b>, <b>Supabase</b>, and APIs.</li>
+        <li>🎓 <b>Education:</b> Bachelor's Degree in Information Technology (Software Specialization) from <b>Beni Suef Technological University</b>.</li>
+        <li>🚀 <b>Tech Community:</b> Participant in competitive tech initiatives and hackathons including <b>DEPI</b> and <b>NASA Space Apps</b>.</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding animation" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-<p>
-  <strong>Languages & Core Programming:</strong><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-</p>
-
-<p>
-  <strong>Databases & Backend Tools:</strong><br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-<p>
-  <strong>Systems, Networking & Operations:</strong><br>
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows Server" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
-  <img src="https://img.shields.io/badge/Veeam_Backup-00B336?style=flat-square&logo=veeam&logoColor=white" alt="Veeam" />
-  <img src="https://img.shields.io/badge/Hardware-Troubleshooting-555555?style=flat-square" alt="Hardware" />
-</p>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,php,cpp,java,mysql,postgres,supabase,linux,windows,git,github,bash,postman,vscode" alt="Tech Stack Icons" />
+  </a>
+</div>
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Activity & Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeyadr5&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Zeyad's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyadr5&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=zeyadr5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Zeyad's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyadr5&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeyadr5&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </p>
+</div>
 
 ---
 
-### 📬 Connect With Me
+### 📬 Let's Connect
 
-- **LinkedIn:** [zeyad-yasser-213312297](https://linkedin.com/in/zeyad-yasser-213312297)
-- **Email:** [zeyady2233@gmail.com](mailto:zeyady2233@gmail.com)
+<div align="center">
+  <a href="https://linkedin.com/in/zeyad-yasser-213312297" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:zeyady2233@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/zeyadr5">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Waving Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2&height=100&section=footer" width="100%" alt="Footer Wave" />
+</div>
