@@ -55,8 +55,8 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeyad4a&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Zeyad's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyad4a&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zeyadr5&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Zeyad's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyadr5&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
