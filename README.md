@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  <a href="https://linkedin.com/in/zeyad-yasser-213312297">
+  <a href="https://linkedin.com/in/zeyad-yasser-213312297" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:zeyady2233@gmail.com">
@@ -28,27 +28,33 @@
 
 ### 🛠️ Tech Stack & Skills
 
-**Languages & Core Programming:**
-[https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white]
-[https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black]
-[https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white]
-[https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white]
-[https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white]
-[https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white]
+<p>
+  <strong>Languages & Core Programming:</strong><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+</p>
 
-**Databases & Backend Tools:**
-[https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white]
-[https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white]
-[https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white]
-[https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white]
-[https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white]
+<p>
+  <strong>Databases & Backend Tools:</strong><br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-**Systems, Networking & Operations:**
-[https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white]
-[https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black]
-[https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white]
-[https://img.shields.io/badge/Veeam_Backup-00B336?style=flat-square&logo=veeam&logoColor=white]
-[https://img.shields.io/badge/Hardware-Troubleshooting-grey?style=flat-square]
+<p>
+  <strong>Systems, Networking & Operations:</strong><br>
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows Server" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/Veeam_Backup-00B336?style=flat-square&logo=veeam&logoColor=white" alt="Veeam" />
+  <img src="https://img.shields.io/badge/Hardware-Troubleshooting-555555?style=flat-square" alt="Hardware" />
+</p>
 
 ---
 
