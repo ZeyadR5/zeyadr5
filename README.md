@@ -3,7 +3,7 @@
   <!-- Responsive Light/Dark Banner from mikewall.dev -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
-    <img alt="Zeyad Yasser Banner" src="art/header-light.png" width="100%">
+    <!-- <img alt="Zeyad Yasser Banner" src="art/header-light.png" width="100%"> -->
   </picture>
 
   <br><br>
